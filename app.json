@@ -16,7 +16,7 @@
       "LISTENING_PORT"  : "30388",
       "INSTANCE_NAME"   : "",
       "CONTACT_DETAILS" : "info@orientum.io",
-      "WS_SERVER"       : "wss://rpc.ethstats.net",
+      "WS_SERVER"       : "ws://stats.orientum.io",
       "WS_SECRET"       : "ORT",
       "VERBOSITY"       : 2
     }
